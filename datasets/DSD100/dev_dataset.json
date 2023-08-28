@@ -1,0 +1,314 @@
+[
+    {"audio_paths":[ "D:\\Datasets\\DSD100\\DSD100\\Mixtures\\Dev\\051 - AM Contra - Heart Peripheral\\mixture.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\051 - AM Contra - Heart Peripheral\\vocals.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\051 - AM Contra - Heart Peripheral\\bass.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\051 - AM Contra - Heart Peripheral\\drums.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\051 - AM Contra - Heart Peripheral\\other.wav"],"example_id":51,"duration":209
+    },
+    {"audio_paths":[ "D:\\Datasets\\DSD100\\DSD100\\Mixtures\\Dev\\052 - ANiMAL - Easy Tiger\\mixture.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\052 - ANiMAL - Easy Tiger\\vocals.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\052 - ANiMAL - Easy Tiger\\bass.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\052 - ANiMAL - Easy Tiger\\drums.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\052 - ANiMAL - Easy Tiger\\other.wav"],"example_id":52,"duration":205
+    },
+    {"audio_paths":[ "D:\\Datasets\\DSD100\\DSD100\\Mixtures\\Dev\\053 - Actions - Devil's Words\\mixture.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\053 - Actions - Devil's Words\\vocals.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\053 - Actions - Devil's Words\\bass.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\053 - Actions - Devil's Words\\drums.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\053 - Actions - Devil's Words\\other.wav"],"example_id":53,"duration":196
+    },
+    
+    {"audio_paths":[ "D:\\Datasets\\DSD100\\DSD100\\Mixtures\\Dev\\054 - Actions - South Of The Water\\mixture.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\054 - Actions - South Of The Water\\vocals.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\054 - Actions - South Of The Water\\bass.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\054 - Actions - South Of The Water\\drums.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\054 - Actions - South Of The Water\\other.wav"],"example_id":54,"duration":176
+    },
+    {"audio_paths":[ "D:\\Datasets\\DSD100\\DSD100\\Mixtures\\Dev\\055 - Angels In Amplifiers - I'm Alright\\mixture.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\055 - Angels In Amplifiers - I'm Alright\\vocals.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\055 - Angels In Amplifiers - I'm Alright\\bass.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\055 - Angels In Amplifiers - I'm Alright\\drums.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\055 - Angels In Amplifiers - I'm Alright\\other.wav"],"example_id":55,"duration":179
+    },
+    {"audio_paths":[ "D:\\Datasets\\DSD100\\DSD100\\Mixtures\\Dev\\056 - Arise - Run Run Run\\mixture.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\056 - Arise - Run Run Run\\vocals.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\056 - Arise - Run Run Run\\bass.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\056 - Arise - Run Run Run\\drums.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\056 - Arise - Run Run Run\\other.wav"],"example_id":56,"duration":219
+    },
+    {"audio_paths":[ "D:\\Datasets\\DSD100\\DSD100\\Mixtures\\Dev\\057 - BKS - Bulldozer\\mixture.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\057 - BKS - Bulldozer\\vocals.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\057 - BKS - Bulldozer\\bass.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\057 - BKS - Bulldozer\\drums.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\057 - BKS - Bulldozer\\other.wav"],"example_id":57,"duration":337
+    },
+    {"audio_paths":[ "D:\\Datasets\\DSD100\\DSD100\\Mixtures\\Dev\\058 - Ben Carrigan - We'll Talk About It All Tonight\\mixture.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\058 - Ben Carrigan - We'll Talk About It All Tonight\\vocals.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\058 - Ben Carrigan - We'll Talk About It All Tonight\\bass.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\058 - Ben Carrigan - We'll Talk About It All Tonight\\drums.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\058 - Ben Carrigan - We'll Talk About It All Tonight\\other.wav"],"example_id":58,"duration":254
+    },
+    
+    {"audio_paths":[ "D:\\Datasets\\DSD100\\DSD100\\Mixtures\\Dev\\059 - Black Bloc - If You Want Success\\mixture.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\059 - Black Bloc - If You Want Success\\vocals.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\059 - Black Bloc - If You Want Success\\bass.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\059 - Black Bloc - If You Want Success\\drums.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\059 - Black Bloc - If You Want Success\\other.wav"],"example_id":59,"duration":398
+    },
+    {"audio_paths":[ "D:\\Datasets\\DSD100\\DSD100\\Mixtures\\Dev\\060 - Buitraker - Revo X\\mixture.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\060 - Buitraker - Revo X\\vocals.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\060 - Buitraker - Revo X\\bass.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\060 - Buitraker - Revo X\\drums.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\060 - Buitraker - Revo X\\other.wav"],"example_id":60,"duration":275
+    },
+    {"audio_paths":[ "D:\\Datasets\\DSD100\\DSD100\\Mixtures\\Dev\\061 - Chris Durban - Celebrate\\mixture.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\061 - Chris Durban - Celebrate\\vocals.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\061 - Chris Durban - Celebrate\\bass.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\061 - Chris Durban - Celebrate\\drums.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\061 - Chris Durban - Celebrate\\other.wav"],"example_id":61,"duration":301
+    },
+    {"audio_paths":[ "D:\\Datasets\\DSD100\\DSD100\\Mixtures\\Dev\\062 - Cristina Vane - So Easy\\mixture.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\062 - Cristina Vane - So Easy\\vocals.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\062 - Cristina Vane - So Easy\\bass.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\062 - Cristina Vane - So Easy\\drums.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\062 - Cristina Vane - So Easy\\other.wav"],"example_id":62,"duration":254
+    },
+    {"audio_paths":[ "D:\\Datasets\\DSD100\\DSD100\\Mixtures\\Dev\\063 - Detsky Sad - Walkie Talkie\\mixture.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\063 - Detsky Sad - Walkie Talkie\\vocals.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\063 - Detsky Sad - Walkie Talkie\\bass.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\063 - Detsky Sad - Walkie Talkie\\drums.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\063 - Detsky Sad - Walkie Talkie\\other.wav"],"example_id":63,"duration":190
+    },
+    {"audio_paths":[ "D:\\Datasets\\DSD100\\DSD100\\Mixtures\\Dev\\064 - Enda Reilly - Cur An Long Ag Seol\\mixture.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\064 - Enda Reilly - Cur An Long Ag Seol\\vocals.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\064 - Enda Reilly - Cur An Long Ag Seol\\bass.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\064 - Enda Reilly - Cur An Long Ag Seol\\drums.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\064 - Enda Reilly - Cur An Long Ag Seol\\other.wav"],"example_id":64,"duration":186
+    },
+    {"audio_paths":[ "D:\\Datasets\\DSD100\\DSD100\\Mixtures\\Dev\\065 - Fergessen - Nos Palpitants\\mixture.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\065 - Fergessen - Nos Palpitants\\vocals.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\065 - Fergessen - Nos Palpitants\\bass.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\065 - Fergessen - Nos Palpitants\\drums.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\065 - Fergessen - Nos Palpitants\\other.wav"],"example_id":65,"duration":198
+    },
+    {"audio_paths":[ "D:\\Datasets\\DSD100\\DSD100\\Mixtures\\Dev\\066 - Flags - 54\\mixture.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\066 - Flags - 54\\vocals.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\066 - Flags - 54\\bass.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\066 - Flags - 54\\drums.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\066 - Flags - 54\\other.wav"],"example_id":66,"duration":315
+    },
+    {"audio_paths":[ "D:\\Datasets\\DSD100\\DSD100\\Mixtures\\Dev\\067 - Georgia Wonder - Siren\\mixture.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\067 - Georgia Wonder - Siren\\vocals.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\067 - Georgia Wonder - Siren\\bass.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\067 - Georgia Wonder - Siren\\drums.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\067 - Georgia Wonder - Siren\\other.wav"],"example_id":67,"duration":430
+    },
+    {"audio_paths":[ "D:\\Datasets\\DSD100\\DSD100\\Mixtures\\Dev\\068 - Giselle - Moss\\mixture.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\068 - Giselle - Moss\\vocals.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\068 - Giselle - Moss\\bass.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\068 - Giselle - Moss\\drums.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\068 - Giselle - Moss\\other.wav"],"example_id":68,"duration":201
+    },
+
+    {"audio_paths":[ "D:\\Datasets\\DSD100\\DSD100\\Mixtures\\Dev\\069 - Hollow Ground - Left Blind\\mixture.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\069 - Hollow Ground - Left Blind\\vocals.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\069 - Hollow Ground - Left Blind\\bass.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\069 - Hollow Ground - Left Blind\\drums.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\069 - Hollow Ground - Left Blind\\other.wav"],"example_id":69,"duration":159
+    },
+    {"audio_paths":[ "D:\\Datasets\\DSD100\\DSD100\\Mixtures\\Dev\\070 - James May - All Souls Moon\\mixture.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\070 - James May - All Souls Moon\\vocals.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\070 - James May - All Souls Moon\\bass.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\070 - James May - All Souls Moon\\drums.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\070 - James May - All Souls Moon\\other.wav"],"example_id":70,"duration":221
+    },
+    {"audio_paths":[ "D:\\Datasets\\DSD100\\DSD100\\Mixtures\\Dev\\071 - James May - If You Say\\mixture.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\071 - James May - If You Say\\vocals.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\071 - James May - If You Say\\bass.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\071 - James May - If You Say\\drums.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\071 - James May - If You Say\\other.wav"],"example_id":71,"duration":258
+    },
+    {"audio_paths":[ "D:\\Datasets\\DSD100\\DSD100\\Mixtures\\Dev\\072 - Jay Menon - Through My Eyes\\mixture.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\072 - Jay Menon - Through My Eyes\\vocals.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\072 - Jay Menon - Through My Eyes\\bass.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\072 - Jay Menon - Through My Eyes\\drums.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\072 - Jay Menon - Through My Eyes\\other.wav"],"example_id":72,"duration":253
+    },
+    {"audio_paths":[ "D:\\Datasets\\DSD100\\DSD100\\Mixtures\\Dev\\073 - Johnny Lokke - Whisper To A Scream\\mixture.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\073 - Johnny Lokke - Whisper To A Scream\\vocals.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\073 - Johnny Lokke - Whisper To A Scream\\bass.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\073 - Johnny Lokke - Whisper To A Scream\\drums.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\073 - Johnny Lokke - Whisper To A Scream\\other.wav"],"example_id":73,"duration":255
+    },
+    {"audio_paths":[ "D:\\Datasets\\DSD100\\DSD100\\Mixtures\\Dev\\074 - Juliet's Rescue - Heartbeats\\mixture.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\074 - Juliet's Rescue - Heartbeats\\vocals.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\074 - Juliet's Rescue - Heartbeats\\bass.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\074 - Juliet's Rescue - Heartbeats\\drums.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\074 - Juliet's Rescue - Heartbeats\\other.wav"],"example_id":74,"duration":267
+    },
+    {"audio_paths":[ "D:\\Datasets\\DSD100\\DSD100\\Mixtures\\Dev\\075 - Leaf - Summerghost\\mixture.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\075 - Leaf - Summerghost\\vocals.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\075 - Leaf - Summerghost\\bass.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\075 - Leaf - Summerghost\\drums.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\075 - Leaf - Summerghost\\other.wav"],"example_id":75,"duration":232
+    },
+    {"audio_paths":[ "D:\\Datasets\\DSD100\\DSD100\\Mixtures\\Dev\\076 - Little Chicago's Finest - My Own\\mixture.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\076 - Little Chicago's Finest - My Own\\vocals.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\076 - Little Chicago's Finest - My Own\\bass.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\076 - Little Chicago's Finest - My Own\\drums.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\076 - Little Chicago's Finest - My Own\\other.wav"],"example_id":76,"duration":281
+    },
+    {"audio_paths":[ "D:\\Datasets\\DSD100\\DSD100\\Mixtures\\Dev\\077 - Lyndsey Ollard - Catching Up\\mixture.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\077 - Lyndsey Ollard - Catching Up\\vocals.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\077 - Lyndsey Ollard - Catching Up\\bass.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\077 - Lyndsey Ollard - Catching Up\\drums.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\077 - Lyndsey Ollard - Catching Up\\other.wav"],"example_id":77,"duration":227
+    },
+    {"audio_paths":[ "D:\\Datasets\\DSD100\\DSD100\\Mixtures\\Dev\\078 - Moosmusic - Big Dummy Shake\\mixture.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\078 - Moosmusic - Big Dummy Shake\\vocals.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\078 - Moosmusic - Big Dummy Shake\\bass.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\078 - Moosmusic - Big Dummy Shake\\drums.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\078 - Moosmusic - Big Dummy Shake\\other.wav"],"example_id":78,"duration":198
+    },
+    {"audio_paths":[ "D:\\Datasets\\DSD100\\DSD100\\Mixtures\\Dev\\079 - Mu - Too Bright\\mixture.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\079 - Mu - Too Bright\\vocals.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\079 - Mu - Too Bright\\bass.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\079 - Mu - Too Bright\\drums.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\079 - Mu - Too Bright\\other.wav"],"example_id":79,"duration":272
+    },
+    {"audio_paths":[ "D:\\Datasets\\DSD100\\DSD100\\Mixtures\\Dev\\080 - North To Alaska - All The Same\\mixture.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\080 - North To Alaska - All The Same\\vocals.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\080 - North To Alaska - All The Same\\bass.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\080 - North To Alaska - All The Same\\drums.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\080 - North To Alaska - All The Same\\other.wav"],"example_id":80,"duration":248
+    },
+    {"audio_paths":[ "D:\\Datasets\\DSD100\\DSD100\\Mixtures\\Dev\\081 - Patrick Talbot - Set Me Free\\mixture.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\081 - Patrick Talbot - Set Me Free\\vocals.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\081 - Patrick Talbot - Set Me Free\\bass.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\081 - Patrick Talbot - Set Me Free\\drums.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\081 - Patrick Talbot - Set Me Free\\other.wav"],"example_id":81,"duration":289
+    },
+    {"audio_paths":[ "D:\\Datasets\\DSD100\\DSD100\\Mixtures\\Dev\\082 - Punkdisco - Oral Hygiene\\mixture.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\082 - Punkdisco - Oral Hygiene\\vocals.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\082 - Punkdisco - Oral Hygiene\\bass.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\082 - Punkdisco - Oral Hygiene\\drums.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\082 - Punkdisco - Oral Hygiene\\other.wav"],"example_id":82,"duration":221
+    },
+    {"audio_paths":[ "D:\\Datasets\\DSD100\\DSD100\\Mixtures\\Dev\\083 - Remember December - C U Next Time\\mixture.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\083 - Remember December - C U Next Time\\vocals.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\083 - Remember December - C U Next Time\\bass.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\083 - Remember December - C U Next Time\\drums.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\083 - Remember December - C U Next Time\\other.wav"],"example_id":83,"duration":242
+    },
+    {"audio_paths":[ "D:\\Datasets\\DSD100\\DSD100\\Mixtures\\Dev\\084 - Secretariat - Borderline\\mixture.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\084 - Secretariat - Borderline\\vocals.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\084 - Secretariat - Borderline\\bass.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\084 - Secretariat - Borderline\\drums.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\084 - Secretariat - Borderline\\other.wav"],"example_id":84,"duration":286
+    },
+    {"audio_paths":[ "D:\\Datasets\\DSD100\\DSD100\\Mixtures\\Dev\\085 - Side Effects Project - Sing With Me\\mixture.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\085 - Side Effects Project - Sing With Me\\vocals.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\085 - Side Effects Project - Sing With Me\\bass.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\085 - Side Effects Project - Sing With Me\\drums.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\085 - Side Effects Project - Sing With Me\\other.wav"],"example_id":85,"duration":243
+    },
+    {"audio_paths":[ "D:\\Datasets\\DSD100\\DSD100\\Mixtures\\Dev\\086 - Skelpolu - Human Mistakes\\mixture.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\086 - Skelpolu - Human Mistakes\\vocals.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\086 - Skelpolu - Human Mistakes\\bass.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\086 - Skelpolu - Human Mistakes\\drums.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\086 - Skelpolu - Human Mistakes\\other.wav"],"example_id":86,"duration":324
+    },
+    {"audio_paths":[ "D:\\Datasets\\DSD100\\DSD100\\Mixtures\\Dev\\087 - Skelpolu - Together Alone\\mixture.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\087 - Skelpolu - Together Alone\\vocals.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\087 - Skelpolu - Together Alone\\bass.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\087 - Skelpolu - Together Alone\\drums.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\087 - Skelpolu - Together Alone\\other.wav"],"example_id":87,"duration":326
+    },
+    {"audio_paths":[ "D:\\Datasets\\DSD100\\DSD100\\Mixtures\\Dev\\088 - Speak Softly - Like Horses\\mixture.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\088 - Speak Softly - Like Horses\\vocals.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\088 - Speak Softly - Like Horses\\bass.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\088 - Speak Softly - Like Horses\\drums.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\088 - Speak Softly - Like Horses\\other.wav"],"example_id":88,"duration":312
+    },
+    {"audio_paths":[ "D:\\Datasets\\DSD100\\DSD100\\Mixtures\\Dev\\089 - St Vitus - Word Gets Around\\mixture.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\089 - St Vitus - Word Gets Around\\vocals.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\089 - St Vitus - Word Gets Around\\bass.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\089 - St Vitus - Word Gets Around\\drums.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\089 - St Vitus - Word Gets Around\\other.wav"],"example_id":89,"duration":247
+    },
+    {"audio_paths":[ "D:\\Datasets\\DSD100\\DSD100\\Mixtures\\Dev\\090 - The Doppler Shift - Atrophy\\mixture.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\090 - The Doppler Shift - Atrophy\\vocals.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\090 - The Doppler Shift - Atrophy\\bass.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\090 - The Doppler Shift - Atrophy\\drums.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\090 - The Doppler Shift - Atrophy\\other.wav"],"example_id":90,"duration":331
+    },
+    {"audio_paths":[ "D:\\Datasets\\DSD100\\DSD100\\Mixtures\\Dev\\091 - The Long Wait - Dark Horses\\mixture.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\091 - The Long Wait - Dark Horses\\vocals.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\091 - The Long Wait - Dark Horses\\bass.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\091 - The Long Wait - Dark Horses\\drums.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\091 - The Long Wait - Dark Horses\\other.wav"],"example_id":91,"duration":305
+    },
+    {"audio_paths":[ "D:\\Datasets\\DSD100\\DSD100\\Mixtures\\Dev\\092 - The Sunshine Garcia Band - For I Am The Moon\\mixture.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\092 - The Sunshine Garcia Band - For I Am The Moon\\vocals.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\092 - The Sunshine Garcia Band - For I Am The Moon\\bass.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\092 - The Sunshine Garcia Band - For I Am The Moon\\drums.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\092 - The Sunshine Garcia Band - For I Am The Moon\\other.wav"],"example_id":92,"duration":320
+    },
+    {"audio_paths":[ "D:\\Datasets\\DSD100\\DSD100\\Mixtures\\Dev\\093 - Tim Taler - Stalker\\mixture.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\093 - Tim Taler - Stalker\\vocals.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\093 - Tim Taler - Stalker\\bass.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\093 - Tim Taler - Stalker\\drums.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\093 - Tim Taler - Stalker\\other.wav"],"example_id":93,"duration":237
+    },
+    {"audio_paths":[ "D:\\Datasets\\DSD100\\DSD100\\Mixtures\\Dev\\094 - Titanium - Haunted Age\\mixture.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\094 - Titanium - Haunted Age\\vocals.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\094 - Titanium - Haunted Age\\bass.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\094 - Titanium - Haunted Age\\drums.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\094 - Titanium - Haunted Age\\other.wav"],"example_id":94,"duration":248
+    },
+    {"audio_paths":[ "D:\\Datasets\\DSD100\\DSD100\\Mixtures\\Dev\\095 - Traffic Experiment - Once More (With Feeling)\\mixture.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\095 - Traffic Experiment - Once More (With Feeling)\\vocals.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\095 - Traffic Experiment - Once More (With Feeling)\\bass.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\095 - Traffic Experiment - Once More (With Feeling)\\drums.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\095 - Traffic Experiment - Once More (With Feeling)\\other.wav"],"example_id":95,"duration":435
+    },
+    {"audio_paths":[ "D:\\Datasets\\DSD100\\DSD100\\Mixtures\\Dev\\096 - Triviul - Angelsaint\\mixture.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\096 - Triviul - Angelsaint\\vocals.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\096 - Triviul - Angelsaint\\bass.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\096 - Triviul - Angelsaint\\drums.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\096 - Triviul - Angelsaint\\other.wav"],"example_id":96,"duration":236
+    },
+    {"audio_paths":[ "D:\\Datasets\\DSD100\\DSD100\\Mixtures\\Dev\\097 - Triviul feat. The Fiend - Widow\\mixture.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\097 - Triviul feat. The Fiend - Widow\\vocals.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\097 - Triviul feat. The Fiend - Widow\\bass.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\097 - Triviul feat. The Fiend - Widow\\drums.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\097 - Triviul feat. The Fiend - Widow\\other.wav"],"example_id":97,"duration":235
+    },
+    
+    {"audio_paths":[ "D:\\Datasets\\DSD100\\DSD100\\Mixtures\\Dev\\098 - Wall Of Death - Femme\\mixture.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\098 - Wall Of Death - Femme\\vocals.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\098 - Wall Of Death - Femme\\bass.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\098 - Wall Of Death - Femme\\drums.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\098 - Wall Of Death - Femme\\other.wav"],"example_id":98,"duration":239
+    },
+    {"audio_paths":[ "D:\\Datasets\\DSD100\\DSD100\\Mixtures\\Dev\\099 - Young Griffo - Blood To Bone\\mixture.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\099 - Young Griffo - Blood To Bone\\vocals.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\099 - Young Griffo - Blood To Bone\\bass.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\099 - Young Griffo - Blood To Bone\\drums.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\099 - Young Griffo - Blood To Bone\\other.wav"],"example_id":99,"duration":254
+    },
+    {"audio_paths":[ "D:\\Datasets\\DSD100\\DSD100\\Mixtures\\Dev\\100 - Young Griffo - Pennies\\mixture.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\100 - Young Griffo - Pennies\\vocals.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\100 - Young Griffo - Pennies\\bass.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\100 - Young Griffo - Pennies\\drums.wav",
+    "D:\\Datasets\\DSD100\\DSD100\\Sources\\Dev\\100 - Young Griffo - Pennies\\other.wav"],"example_id":100,"duration":277
+    }
+    ]
+    
+    
+    
+    
+    
+    
+    
+    
