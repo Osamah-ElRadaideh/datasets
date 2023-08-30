@@ -15,3 +15,5 @@ DSD100: https://sigsep.github.io/datasets/dsd100.html
 
 Musb18hq: https://sigsep.github.io/datasets/musdb.html
 
+FFHQ-small: https://www.kaggle.com/datasets/tommykamaz/faces-dataset-small 
+
