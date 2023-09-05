@@ -1,5 +1,5 @@
 # datasets
-A repositories with all the JSON files that are used in the models, will be updated regularly, below are where the datasets can be downloaded from.
+A repository with all the JSON files that are used in the models, will be updated regularly, below are where the datasets can be downloaded from.
 
 AHE: https://www.kaggle.com/datasets/ikobzev/architectural-heritage-elements-image64-dataset
 
@@ -17,3 +17,4 @@ Musb18hq: https://sigsep.github.io/datasets/musdb.html
 
 FFHQ-small: https://www.kaggle.com/datasets/tommykamaz/faces-dataset-small 
 
+chasedb1: https://blogs.kingston.ac.uk/retinal/chasedb1/
